@@ -1,1 +1,1 @@
-![Portfolio Picture](/_includes/16584802_1772712479715323_4260390270941528064_n.jpg)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
