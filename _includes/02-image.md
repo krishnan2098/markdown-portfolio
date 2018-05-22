@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Portfolio Picture](/_includes/16584802_1772712479715323_4260390270941528064_n.jpg)
